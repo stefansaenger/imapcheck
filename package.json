@@ -1,0 +1,12 @@
+{
+  "name": "imapstat",
+  "version": "1.0.0",
+  "description": "command line imap statistics",
+  "main": "imapcheck.js",
+  "author": "Stefan Saenger <stefan.saenger@vnc.biz>",
+  "license": "MIT",
+  "dependencies": {
+    "imapflow": "^1.0.80",
+    "pino-syslog": "^2.0.0"
+  }
+}
